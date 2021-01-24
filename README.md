@@ -1,3 +1,3 @@
 # Lab tutorials on Python, R
-Here is the collection of lab tutorials on Python, R and applications to Psychophysics, and neuroscience. 
+Here is the collection of lab tutorials, lectures on Python, R and applications to Psychophysics, and neuroscience. 
 
